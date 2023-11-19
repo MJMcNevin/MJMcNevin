@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MJMcNevin
 - 👀 I’m interested in binformatics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...TBD
+- 💞️ I’m looking to collaborate on python and R project related to bioinformatics
 - 📫 How to reach me teitch.tv/amattscientist
 
 <!---
