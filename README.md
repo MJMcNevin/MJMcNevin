@@ -2,7 +2,7 @@
 - 👀 I’m interested in binformatics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python and R project related to bioinformatics
-- 📫 How to reach me teitch.tv/amattscientist
+- 📫 How to reach me twitch.tv/amattscientist
 
 <!---
 MJMcNevin/MJMcNevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
