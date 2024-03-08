@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on python and R project related to bioinformatics
 - 📫 How to reach me twitch.tv/amattscientist
+- 🤑 How to donate paypal.me/amattscientist
 
 <!---
 MJMcNevin/MJMcNevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
